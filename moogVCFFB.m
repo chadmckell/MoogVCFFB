@@ -7,7 +7,7 @@
 % Description: Virtual analog model of the Moog VCF ladder filter. This
 % script uses forward and backward integrators to approximate the impulse
 % response of the filter. The approximated transfer functions are then
-% compared with the exact calculation of a Moog VCF transfer function.
+% compared with the exact calculation of the Moog VCF transfer function.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
 tic; close; clc; clear;
 
