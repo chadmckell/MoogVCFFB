@@ -1,5 +1,5 @@
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
-% PBMMI Assignment 5 - Moog VCF Filter (Forward & Backward Approximations)
+% Moog VCF Filter (Forward & Backward Approximations)
 % 
 % Author: Chad McKell
 % Date: 27.03.17
