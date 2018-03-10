@@ -1,13 +1,13 @@
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
-% Moog VCF Filter (Forward & Backward Approximations)
+% Moog VCF Model (Forward & Backward Approximations)
 % 
 % Author: Chad McKell
 % Date: 27.03.17
 %
-% Description: Virtual analog model of the Moog VCF ladder filter. This
-% script uses forward and backward integrators to approximate the impulse
-% response of the filter. The approximated transfer functions are then
-% compared with the exact calculation of the Moog VCF transfer function.
+% Description: Virtual analog model of the Moog VCF. This script uses
+% forward and backward integrators to approximate the impulse response of
+% the filter. The approximated transfer functions are then compared with
+% the exact calculation of the Moog VCF transfer function.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
 tic; close; clc; clear;
 
